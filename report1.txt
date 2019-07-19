@@ -46,7 +46,7 @@ for i in range(186):
  img = cv2.imread("picture{:0=3}".format(num)+".jpg")
  mean = np.mean(img)
  list.append(mean)
- x.append(num/30)
+ x.append(num/20)
  num += 1
  
  plt.plot(x,list)
