@@ -9,8 +9,8 @@
 -----
  　openCV(4.1.0),numpy(1.16.2),matplotlib(3.0.3)
   
-# 参考にしたサイトのリンク
-
+参考にしたサイトのリンク
+--------
  「動画を扱う-OpenCV-Python tutorial 1 documentation」
  http://labs.eecs.tottori-u.ac.jp/sd/Member/oyamada/OpenCV/html/py_tutorials/py_gui/py_video_display/py_video_display.html
  の、「動画を保存する」のコードを参考にした。
@@ -18,6 +18,6 @@
  https://www.asanohatake.com/entry/2018/11/20/073000
  の、「動画から画像への変換（フレームごと）」のコードを参考にした。
 
-# 実行の様子をスクリーンショットで表示する。
-
+実行の様子をスクリーンショットで表示する。
+-------------
 ![1-1](/1-1.png)
